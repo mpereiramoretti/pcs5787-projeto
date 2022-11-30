@@ -1,4 +1,4 @@
-# PCS5787 Tópicos Especiais em Ciência dos Dados e Big Data (2022) - Project
+# PCS5787 - Tópicos Especiais em Ciência dos Dados e Big Data (2022) - Project
 
 ## Subscription Term Deposit Prediction
 
