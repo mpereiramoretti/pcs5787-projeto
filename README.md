@@ -9,3 +9,7 @@ Project for predicting if a client will subscribe a term deposit or not, given t
 - Marcos Paulo Pereira Moretti
 - Pedro Alves Quilici Coutinho
 - Victor de Magalhaes Deboni
+
+## Data sources
+
+We have got data from UCI Repository named Bank Marketing Data Set, available at https://archive.ics.uci.edu/ml/datasets/Bank+Marketing, and accessed on November 29th 2022.
