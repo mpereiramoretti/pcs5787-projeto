@@ -4,6 +4,8 @@
 
 Project for predicting if a client will subscribe a term deposit or not, given that he was contacted via telephone by a marketer during direct marketing campaigns of a Portuguese banking institution.
 
+Moreover, we aim to discover the variables that influence the most the subscription (and compare with the references we added to the proposal). With the results of the predictions, we'd like to discover a client profile that probably would subscribe a term deposit, as well as some actions to suggest to the business team for a future campaign.
+
 ## Group 7
 
 - Marcos Paulo Pereira Moretti
