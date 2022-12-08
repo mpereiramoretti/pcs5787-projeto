@@ -9,8 +9,6 @@ Moreover, we aim to discover the variables that influence the most the subscript
 ## Group 7
 
 - Marcos Paulo Pereira Moretti
-- Pedro Alves Quilici Coutinho
-- Victor de Magalhaes Deboni
 
 ## Data sources
 
